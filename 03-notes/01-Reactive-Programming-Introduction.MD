@@ -494,9 +494,6 @@
 5. Strong ecosystem support (databases, messaging, networking) makes it practical in modern distributed systems.
 
 ---
-
-Nice — this is the core of Reactive Streams semantics. I’ve rewritten and organised your lecture into a clear, compact reference you (or your students) can re-watch and use as a checklist. Read it twice (or ten times 😉) — it’s the kind of stuff you’ll want memorised.
-
 # Reactive Streams — basic rules & signal contract (refined)
 
 ## Quick overview
